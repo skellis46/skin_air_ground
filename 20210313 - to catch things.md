@@ -18,3 +18,4 @@ https://psyche.co/ideas/bob-dylan-turned-american-folk-traditions-into-modern-pr
 Hard catch 
 Hard caught 
 A man with a falling camera 
+Trying to hold on.
