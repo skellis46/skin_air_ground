@@ -19,3 +19,7 @@ Hard catch
 Hard caught 
 A man with a falling camera 
 Trying to hold on.
+
+
+Nic Sanderland exosphere: <https://flexerandsandiland.com/archives/nic-sandiland/films/exosphere/> #influences
+
