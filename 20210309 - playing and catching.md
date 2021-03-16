@@ -17,5 +17,5 @@ What kind of orientations might I provide to the viewer: like some kind of anima
 
 Shadow is super useful -- more perspectives of me to orientate. Wonder what it would be like in lighting setup. Multiple shadows. Maybe some colours. projection. #ideatotry 
 
-Didn't spend any viewing time in PP looking at differences between the materials (with different camera settings).
+Didn't spend any viewing time in PP looking at differences between the materials (with different camera settings). Update: Did this in [[20210315 - through things]]
 
