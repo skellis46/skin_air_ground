@@ -2,11 +2,11 @@
 
 Very sunny, bright. Did series of tests with GoPro trying to get a better sense of how different features work. Went to 720p so I could get a look at 240fps. Below are the tests with CAPS indicating the changes. Started running, playing and catching a bit from number 3. Continued that for remaining two tests. 
 
-1. [06_GOPR8081.MP4 ]720p, 240fps, N FoV, 5500k, color: flat, shutter: auto; iso: 400; sharpness: low; EVC: -0.5
-2. [07_GOPR8082.MP4] 720p, 240fps, N FoV, 5500k, COLOR: GoPro, shutter: auto; iso: 400; sharpness: low; EVC: -0.5
-3. [08_GOPR8083.MP4] 720p, 240fps, N FoV, 5500k, color: flat, SHUTTER: 480; iso: 400; sharpness: low; EVC: -0.5 -- started running and catching a bit (a bit over half way through)
-4. [09_GOPR8084.MP4] 720p, 240fps, N FoV, 5500k, color: flat, SHUTTER: 240; iso: 400; sharpness: low; EVC: -0.5
-5.  [10_GOPR8085.MP4] RES: 1080; 120 FPS, FoV: N, 5500K, color: flat, shutter: auto?; iso: 400; sharpness: low; EVC: -0.5
+1. [06_GOPR8081.MP4 ]720p, 240fps, N FoV, 5500k, color: flat, shutter: auto; iso: 400; sharpness: low; EVC: -0.5 ^a058fe
+2. [07_GOPR8082.MP4] 720p, 240fps, N FoV, 5500k, COLOR: GoPro, shutter: auto; iso: 400; sharpness: low; EVC: -0.5 ^241c58
+3. [08_GOPR8083.MP4] 720p, 240fps, N FoV, 5500k, color: flat, SHUTTER: 480; iso: 400; sharpness: low; EVC: -0.5 -- started running and catching a bit (a bit over half way through) ^1c4a7e
+4. [09_GOPR8084.MP4] 720p, 240fps, N FoV, 5500k, color: flat, SHUTTER: 240; iso: 400; sharpness: low; EVC: -0.5 ^aaf938
+5.  [10_GOPR8085.MP4] RES: 1080; 120 FPS, FoV: N, 5500K, color: flat, shutter: auto?; iso: 400; sharpness: low; EVC: -0.5 ^8e9d07
 
 renaming date created: https://hackernoon.com/how-to-change-a-file-s-last-modified-and-creation-dates-on-mac-os-x-494f8f76cdf4
 subler (for mp4 and mp3): https://subler.org/
