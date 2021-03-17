@@ -8,8 +8,24 @@
 
 We are all trying to figure out where are.
 
-He is painfully aware
-That this will end soon.
+He is painfully aware  
+That this will end in invisibility.  
+He has hands to write.  
+Hands to open.  
+They are still hands, a child's hands.  
+They are hands to work  
+Day and night.  
+The splintering sound, like that of a groaning spirit,  
+Is what might have been.  
+There is no tragedy to confuse a memory for the future.  
+Day and night.  
+Now, spinning lost  
+At the mercy of the things we make for new.  
+And in hope for where we are.  ^aa8498
+
+#ideatotry -- building poem like this into the film -- with text on screen, but also spoken. Am thinking chunky text but perhaps the way Dickinson does it or how I tried in the document of Lil's work? 
+
+
 
 
 
