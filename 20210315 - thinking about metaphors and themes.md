@@ -3,6 +3,8 @@
 - thinking about chaos and loss of control
 - about the pleasure of playing and catching
 - of disorientation, and our desperation to orient ourselves 
+- orientation
+- to orient
 - desperation to know where we are; to locate ourselves. 
 - instability
 
@@ -23,11 +25,7 @@ Now, spinning lost
 At the mercy of the things we make for new.  
 And in hope for where we are.  ^aa8498
 
-#ideatotry -- building poem like this into the film -- with text on screen, but also spoken. Am thinking chunky text but perhaps the way Dickinson does it or how I tried in the document of Lil's work? 
-
-
-
-
+#ideatotry -- building poem like this into the film -- with text on screen, but also spoken. Am thinking chunky text but perhaps the way Dickinson does it or how I tried in the document of Lil's work? See also [[20210407 - he is painfully aware (2nd edit)]]
 
 >The long day wanes: the slow moon climbs: the deep 
 >Moans round with many voices. Come, my friends, 
