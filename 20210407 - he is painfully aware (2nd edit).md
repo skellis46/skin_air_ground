@@ -24,3 +24,21 @@ They are hands to work out
 What might have been
 At the mercy of the things we make,  
 And in hope for what might be. 
+
+## 20210426 - another draft
+
+He is painfully aware  
+That this will end in invisibility.  
+He has hands to work out
+What might have been
+At the mercy of the things we make,  
+And in hope for what might be. 
+
+_and another:_ 
+
+He is painfully / [dutifully] / [surprisingly] / [deliberately] / [delicately] aware  
+That this will end in the ground [end lying in the ground] / [all be dust in the ground] / [all end in dust] / .
+His hands are to work out
+What might have been
+At the mercy of the things we made,  
+And in hope for what might be. 

@@ -11,11 +11,11 @@ Very sunny, bright. Did series of tests with GoPro trying to get a better sense 
 renaming date created: https://hackernoon.com/how-to-change-a-file-s-last-modified-and-creation-dates-on-mac-os-x-494f8f76cdf4
 subler (for mp4 and mp3): https://subler.org/
 
-Question with this footage -- in which I am tossing the camera while moving quite quickly -- is really about how dexterous I might become with the camera, how little time is stay in the hand, and what I can do physically while the camera is out of my hands. #ideatotry
+Question with this footage -- in which I am tossing the camera while moving quite quickly -- is really about how dexterous I might become with the camera, how little time is stay in the hand, and what I can do physically while the camera is out of my hands. #ideatotry ^f5656c
 
-What kind of orientations might I provide to the viewer: like some kind of animated gyroscope? Or also a 3rd person perspective? (another camera). Could be attached to me or could be separate. Towards end of 09 I start moving more. Amped it up in 10. Really like footage when camera is dropped. #ideatotry  
+What kind of orientations might I provide to the viewer: like some kind of animated gyroscope? Or also a 3rd person perspective? (another camera). Could be attached to me or could be separate. Towards end of 09 I start moving more. Amped it up in 10. Really like footage when camera is dropped. #ideatotry   ^d915a7
 
-Shadow is super useful -- more perspectives of me to orientate. Wonder what it would be like in lighting setup. Multiple shadows. Maybe some colours. projection. #ideatotry 
+Shadow is super useful -- more perspectives of me to orientate. Wonder what it would be like in lighting setup. Multiple shadows. Maybe some colours. projection. #ideatotry  ^e74ff8
 
 Didn't spend any viewing time in PP looking at differences between the materials (with different camera settings). Update: Did this in [[20210315 - through things]]
 
